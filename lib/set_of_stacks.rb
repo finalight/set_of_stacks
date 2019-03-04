@@ -1,10 +1,4 @@
 
-# This code has the following assumptions
-# We're going to assume the item are actually plate with a number label on it.
-# Therefore, SetOfStack.push 1 means that we're pushing a plate with a number '1' label to the stack
-# Default size of a single stack is 2
-# SetOfStack can define size of the single stack, and it will be the same throughout all the stacks
-
 require "forwardable"
 require "stack"
 
