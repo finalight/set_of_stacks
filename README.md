@@ -13,3 +13,6 @@ SetOf Stacks should be composed of several stacks and should create a new stack 
 - Default size of a single stack is 2
 - SetOfStack can define size of the single stack, and it will be the same throughout all the stacks
 
+## Notes
+
+- This application is done on ruby 2.6.1, using [rbenv](https://github.com/rbenv/rbenv) to manage the versioning installed on the machine, which I think shouldn't matter.
